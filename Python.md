@@ -13,3 +13,5 @@ x = 10
 1. AI
 1. WEB DEV
 1. CyberSec
+
+![Image](../assets/media_1_db8433e7.jpeg)
