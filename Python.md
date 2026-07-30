@@ -14,4 +14,6 @@ x = 10
 1. WEB DEV
 1. CyberSec
 
-![Image](../assets/media_1_db8433e7.jpeg)
+![Image](./assets/media_1_db8433e7.jpeg)
+
+![Image](./assets/media_2_bcbf88c0.png)
